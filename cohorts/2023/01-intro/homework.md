@@ -26,10 +26,10 @@ Now let's compute the `duration` variable. It should contain the duration of a r
 
 What's the standard deviation of the trips duration in January?
 
-☑️ 41.45
-✅ 46.45
-☑️ 51.45
-☑️ 56.45
+☑️ 41.45  
+✅ 46.45  
+☑️ 51.45  
+☑️ 56.45  
 
 
 ## Q3. Dropping outliers
@@ -38,10 +38,10 @@ Next, we need to check the distribution of the `duration` variable. There are so
 
 What fraction of the records left after you dropped the outliers?
 
-☑️ 90%
-☑️ 92%
-☑️ 95%
-✅ 98%
+☑️ 90%  
+☑️ 92%  
+☑️ 95%  
+✅ 98%  
 
 
 ## Q4. One-hot encoding
