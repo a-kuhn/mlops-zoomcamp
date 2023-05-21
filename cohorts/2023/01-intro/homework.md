@@ -54,11 +54,11 @@ Let's apply one-hot encoding to the pickup and dropoff location IDs. We'll use o
 
 What's the dimensionality of this matrix (number of columns)?
 
-* 2
-* 155
-* 345
-* 515
-* 715
+☑️ 2
+☑️ 155
+☑️ 345
+✅ 515
+☑️ 715
 
 
 ## Q5. Training a model
@@ -70,10 +70,10 @@ Now let's use the feature matrix from the previous step to train a model.
 
 What's the RMSE on train?
 
-* 6.99
-* 11.99
-* 16.99
-* 21.99
+✅ 6.99
+☑️ 11.99
+☑️ 16.99
+☑️ 21.99
 
 
 ## Q6. Evaluating the model
@@ -82,10 +82,10 @@ Now let's apply this model to the validation dataset (February 2022).
 
 What's the RMSE on validation?
 
-* 7.79
-* 12.79
-* 17.79
-* 22.79
+✅ 7.79
+☑️ 12.79
+☑️ 17.79
+☑️ 22.79
 
 ## Submit the results
 
