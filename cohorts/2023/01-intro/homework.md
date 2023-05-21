@@ -14,10 +14,10 @@ Download the data for January and February 2022.
 
 Read the data for January. How many columns are there?
 
-☑️ 16
-☑️ 17
-☑️ 18
-✅ 19
+☑️ 16  
+☑️ 17  
+☑️ 18  
+✅ 19  
 
 
 ## Q2. Computing duration
