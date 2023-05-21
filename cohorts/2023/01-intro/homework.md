@@ -9,13 +9,15 @@ We'll use [the same NYC taxi dataset](https://www1.nyc.gov/site/tlc/about/tlc-tr
 but instead of "**Green** Taxi Trip Records", we'll use "**Yellow** Taxi Trip Records".
 
 Download the data for January and February 2022.
+`$ wget https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2022-01.parquet`
+`$ wget https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2022-02.parquet`
 
 Read the data for January. How many columns are there?
 
-* 16
-* 17
-* 18
-* 19
+☑️ 16
+☑️ 17
+☑️ 18
+✅ 19
 
 
 ## Q2. Computing duration
