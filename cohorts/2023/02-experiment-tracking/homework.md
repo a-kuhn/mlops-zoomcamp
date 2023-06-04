@@ -40,10 +40,10 @@ Tip: go to `02-experiment-tracking/homework/` folder before executing the comman
 
 So what's the size of the saved `DictVectorizer` file?
 
-* 54 kB
-* 154 kB
-* 54 MB
-* 154 MB
+☑️ 54 kB
+✅ 154 kB
+☑️ 54 MB
+☑️ 154 MB
 
 
 ## Q3. Train a model with autolog
@@ -66,10 +66,10 @@ Tip 2: don't modify the hyperparameters of the model to make sure that the train
 
 What is the value of the `max_depth` parameter:
 
-* 4
-* 6
-* 8
-* 10
+☑️ 4
+☑️ 6
+☑️ 8
+✅ 10
 
 
 ## Launch the tracking server locally for MLflow
