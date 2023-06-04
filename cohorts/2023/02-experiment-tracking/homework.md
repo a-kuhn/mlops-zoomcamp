@@ -14,7 +14,7 @@ and then install the package there with `pip` or `conda`.
 Once you installed the package, run the command `mlflow --version` and check the output.
 
 What's the version that you have?
-
+**answer: version 2.3.1**
 
 ## Q2. Download and preprocess the data
 
