@@ -1,0 +1,13 @@
+name: mlflow-env
+
+dependencies:
+  - python=3.9
+  - mlflow
+  - jupyter
+  - scikit-learn
+  - pandas
+  - seaborn
+  # - hyperopt conda install -c jaikumarm hyperopt
+  - xgboost
+  - fastparquet
+  - boto3
